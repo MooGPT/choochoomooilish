@@ -6,6 +6,7 @@
 - **Version**: Unity 2019.4 (LTS)
 - **Base**: 1.0.0-base
 - **Lite**: 1.0.0-lite
+- [**Buy Apps**](https://support.google.com/googleplay/answer/113409?hl=en)
+- [**Lite Apps**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.royex.ae/blog/why-should-you-consider-a-lite-version-for-your-mobile-app/%23:~:text%3DLite%2520Apps%2520are%2520basically%2520designed,popular%2520amongst%2520billions%2520of%2520users.&ved=2ahUKEwipyZHHlY-JAxXhORAIHTscPOMQFnoECDoQBQ&usg=AOvVaw3ZtnxevSoiHYeu11TAjCrM)
 - [**Download**](https://github.com/zigurous/unity-snake-tutorial/archive/refs/heads/main.zip)
 - [**Watch Video**](https://youtu.be/U8gUnpeaMbQ)
-- [**Buy Apps**](https://support.google.com/googleplay/answer/113409?hl=en)
